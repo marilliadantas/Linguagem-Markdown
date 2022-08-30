@@ -3,6 +3,6 @@
 
 # Aula de Linguagem Markdown
 ###
-## Título
-### Título 
+
+Podemos __*misturar*__ configurações. 
 
